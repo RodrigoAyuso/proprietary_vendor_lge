@@ -50,7 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/msm7x27a-common/proprietary/lib/libmorpho_noise_reduction.so:system/lib/libmorpho_noise_reduction.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmorpho_panorama_gp.so:system/lib/libmorpho_panorama_gp.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libmorpho_panorama_wa_viewer.so:system/lib/libmorpho_panorama_wa_viewer.so \
-    vendor/lge/msm7x27a-common/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/lge/msm7x27a-common/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/lge/msm7x27a-common/proprietary/lib/libOmxAc3HwDec.so:system/lib/libOmxAc3HwDec.so \
